@@ -23,7 +23,7 @@
     "react": "^16.0.0"
   },
   "dependencies": {
-    "fbjs": "^0.8.16",
+    "fbjs": "^2.0.0",
     "loose-envify": "^1.1.0",
     "object-assign": "^4.1.1"
   },
